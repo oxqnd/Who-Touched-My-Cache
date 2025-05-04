@@ -1,0 +1,491 @@
+# started on Sun May  4 07:15:57 2025
+
+#           time             counts unit events
+     0.100352666            3676330      cache-references                                            
+     0.100352666             630496      cache-misses              #   17.150 % of all cache refs    
+     0.100352666          147862186      branches                                                    
+     0.100352666             608280      branch-misses             #    0.41% of all branches        
+     0.200855143             222612      cache-references                                            
+     0.200855143              23101      cache-misses              #   10.377 % of all cache refs    
+     0.200855143          241503490      branches                                                    
+     0.200855143              45043      branch-misses             #    0.02% of all branches        
+     0.302322657             117138      cache-references                                            
+     0.302322657              13054      cache-misses              #   11.144 % of all cache refs    
+     0.302322657          248656683      branches                                                    
+     0.302322657              43654      branch-misses             #    0.02% of all branches        
+     0.403061951             136683      cache-references                                            
+     0.403061951              13187      cache-misses              #    9.648 % of all cache refs    
+     0.403061951          247426492      branches                                                    
+     0.403061951              43616      branch-misses             #    0.02% of all branches        
+     0.503807372             205454      cache-references                                            
+     0.503807372              26283      cache-misses              #   12.793 % of all cache refs    
+     0.503807372          239839431      branches                                                    
+     0.503807372              44922      branch-misses             #    0.02% of all branches        
+     0.604095804             277150      cache-references                                            
+     0.604095804              47341      cache-misses              #   17.081 % of all cache refs    
+     0.604095804          235235003      branches                                                    
+     0.604095804              48498      branch-misses             #    0.02% of all branches        
+     0.704838264             186365      cache-references                                            
+     0.704838264              30852      cache-misses              #   16.555 % of all cache refs    
+     0.704838264          239885313      branches                                                    
+     0.704838264              48861      branch-misses             #    0.02% of all branches        
+     0.805193789             201844      cache-references                                            
+     0.805193789              32454      cache-misses              #   16.079 % of all cache refs    
+     0.805193789          237944545      branches                                                    
+     0.805193789              47703      branch-misses             #    0.02% of all branches        
+     0.905985675             160183      cache-references                                            
+     0.905985675              23161      cache-misses              #   14.459 % of all cache refs    
+     0.905985675          241854936      branches                                                    
+     0.905985675              47027      branch-misses             #    0.02% of all branches        
+     1.006765000             171922      cache-references                                            
+     1.006765000              28981      cache-misses              #   16.857 % of all cache refs    
+     1.006765000          242122481      branches                                                    
+     1.006765000              48041      branch-misses             #    0.02% of all branches        
+     1.107147689             157009      cache-references                                            
+     1.107147689              27260      cache-misses              #   17.362 % of all cache refs    
+     1.107147689          242034936      branches                                                    
+     1.107147689              47087      branch-misses             #    0.02% of all branches        
+     1.207976338             169657      cache-references                                            
+     1.207976338              28336      cache-misses              #   16.702 % of all cache refs    
+     1.207976338          240593104      branches                                                    
+     1.207976338              48864      branch-misses             #    0.02% of all branches        
+     1.308828577             197330      cache-references                                            
+     1.308828577              25027      cache-misses              #   12.683 % of all cache refs    
+     1.308828577          241516352      branches                                                    
+     1.308828577              48718      branch-misses             #    0.02% of all branches        
+     1.409214024             163944      cache-references                                            
+     1.409214024              21157      cache-misses              #   12.905 % of all cache refs    
+     1.409214024          240311486      branches                                                    
+     1.409214024              47536      branch-misses             #    0.02% of all branches        
+     1.509829650             192546      cache-references                                            
+     1.509829650              19848      cache-misses              #   10.308 % of all cache refs    
+     1.509829650          239023873      branches                                                    
+     1.509829650              48694      branch-misses             #    0.02% of all branches        
+     1.610459062             174972      cache-references                                            
+     1.610459062              15584      cache-misses              #    8.907 % of all cache refs    
+     1.610459062          241491874      branches                                                    
+     1.610459062              48187      branch-misses             #    0.02% of all branches        
+     1.710681895             278058      cache-references                                            
+     1.710681895              46863      cache-misses              #   16.854 % of all cache refs    
+     1.710681895          229505848      branches                                                    
+     1.710681895              51282      branch-misses             #    0.02% of all branches        
+     1.810882906             222469      cache-references                                            
+     1.810882906              22323      cache-misses              #   10.034 % of all cache refs    
+     1.810882906          235086948      branches                                                    
+     1.810882906              48965      branch-misses             #    0.02% of all branches        
+     1.911087969             170871      cache-references                                            
+     1.911087969              19695      cache-misses              #   11.526 % of all cache refs    
+     1.911087969          242999523      branches                                                    
+     1.911087969              48950      branch-misses             #    0.02% of all branches        
+     2.011327971             204396      cache-references                                            
+     2.011327971              20220      cache-misses              #    9.893 % of all cache refs    
+     2.011327971          241413772      branches                                                    
+     2.011327971              49176      branch-misses             #    0.02% of all branches        
+     2.111546098             145522      cache-references                                            
+     2.111546098              18721      cache-misses              #   12.865 % of all cache refs    
+     2.111546098          244778154      branches                                                    
+     2.111546098              47985      branch-misses             #    0.02% of all branches        
+     2.211889200             183448      cache-references                                            
+     2.211889200              28194      cache-misses              #   15.369 % of all cache refs    
+     2.211889200          241153768      branches                                                    
+     2.211889200              47278      branch-misses             #    0.02% of all branches        
+     2.312142165             133033      cache-references                                            
+     2.312142165              15373      cache-misses              #   11.556 % of all cache refs    
+     2.312142165          245223591      branches                                                    
+     2.312142165              48142      branch-misses             #    0.02% of all branches        
+     2.412503395             151963      cache-references                                            
+     2.412503395              24486      cache-misses              #   16.113 % of all cache refs    
+     2.412503395          239392715      branches                                                    
+     2.412503395              47736      branch-misses             #    0.02% of all branches        
+     2.512735498             194422      cache-references                                            
+     2.512735498              47883      cache-misses              #   24.628 % of all cache refs    
+     2.512735498          239181439      branches                                                    
+     2.512735498              48389      branch-misses             #    0.02% of all branches        
+#           time             counts unit events
+     2.612992920             154086      cache-references                                            
+     2.612992920              15770      cache-misses              #   10.235 % of all cache refs    
+     2.612992920          243929173      branches                                                    
+     2.612992920              47750      branch-misses             #    0.02% of all branches        
+     2.713219757             153852      cache-references                                            
+     2.713219757              18422      cache-misses              #   11.974 % of all cache refs    
+     2.713219757          244819063      branches                                                    
+     2.713219757              48438      branch-misses             #    0.02% of all branches        
+     2.813608837             141324      cache-references                                            
+     2.813608837              10916      cache-misses              #    7.724 % of all cache refs    
+     2.813608837          245412071      branches                                                    
+     2.813608837              47741      branch-misses             #    0.02% of all branches        
+     2.913889451             125550      cache-references                                            
+     2.913889451              11451      cache-misses              #    9.121 % of all cache refs    
+     2.913889451          246091042      branches                                                    
+     2.913889451              48166      branch-misses             #    0.02% of all branches        
+     3.014358844             150102      cache-references                                            
+     3.014358844              11341      cache-misses              #    7.556 % of all cache refs    
+     3.014358844          245799283      branches                                                    
+     3.014358844              47209      branch-misses             #    0.02% of all branches        
+     3.114614544             142457      cache-references                                            
+     3.114614544              18913      cache-misses              #   13.276 % of all cache refs    
+     3.114614544          244837583      branches                                                    
+     3.114614544              46671      branch-misses             #    0.02% of all branches        
+     3.214857281             146961      cache-references                                            
+     3.214857281              19371      cache-misses              #   13.181 % of all cache refs    
+     3.214857281          244843781      branches                                                    
+     3.214857281              47137      branch-misses             #    0.02% of all branches        
+     3.315476764             157203      cache-references                                            
+     3.315476764              12580      cache-misses              #    8.002 % of all cache refs    
+     3.315476764          244552059      branches                                                    
+     3.315476764              48759      branch-misses             #    0.02% of all branches        
+     3.416003275             133655      cache-references                                            
+     3.416003275               9461      cache-misses              #    7.079 % of all cache refs    
+     3.416003275          246701396      branches                                                    
+     3.416003275              47821      branch-misses             #    0.02% of all branches        
+     3.516544573             181942      cache-references                                            
+     3.516544573              14270      cache-misses              #    7.843 % of all cache refs    
+     3.516544573          241879084      branches                                                    
+     3.516544573              47899      branch-misses             #    0.02% of all branches        
+     3.617121115             143044      cache-references                                            
+     3.617121115              12606      cache-misses              #    8.813 % of all cache refs    
+     3.617121115          246121971      branches                                                    
+     3.617121115              46754      branch-misses             #    0.02% of all branches        
+     3.717673250             153327      cache-references                                            
+     3.717673250              17950      cache-misses              #   11.707 % of all cache refs    
+     3.717673250          245893246      branches                                                    
+     3.717673250              49230      branch-misses             #    0.02% of all branches        
+     3.818263666             124339      cache-references                                            
+     3.818263666              11204      cache-misses              #    9.011 % of all cache refs    
+     3.818263666          247513517      branches                                                    
+     3.818263666              47135      branch-misses             #    0.02% of all branches        
+     3.918720196             204672      cache-references                                            
+     3.918720196              27473      cache-misses              #   13.423 % of all cache refs    
+     3.918720196          237760259      branches                                                    
+     3.918720196              48082      branch-misses             #    0.02% of all branches        
+     4.019180980             169570      cache-references                                            
+     4.019180980              17844      cache-misses              #   10.523 % of all cache refs    
+     4.019180980          243111800      branches                                                    
+     4.019180980              47668      branch-misses             #    0.02% of all branches        
+     4.119642675             153097      cache-references                                            
+     4.119642675              14962      cache-misses              #    9.773 % of all cache refs    
+     4.119642675          245185873      branches                                                    
+     4.119642675              47791      branch-misses             #    0.02% of all branches        
+     4.220286059             132899      cache-references                                            
+     4.220286059              14984      cache-misses              #   11.275 % of all cache refs    
+     4.220286059          245417294      branches                                                    
+     4.220286059              47510      branch-misses             #    0.02% of all branches        
+     4.320793632             141663      cache-references                                            
+     4.320793632              13579      cache-misses              #    9.585 % of all cache refs    
+     4.320793632          246009874      branches                                                    
+     4.320793632              48997      branch-misses             #    0.02% of all branches        
+     4.421386581             144329      cache-references                                            
+     4.421386581               9024      cache-misses              #    6.252 % of all cache refs    
+     4.421386581          246076723      branches                                                    
+     4.421386581              47836      branch-misses             #    0.02% of all branches        
+     4.521938411             128714      cache-references                                            
+     4.521938411              14139      cache-misses              #   10.985 % of all cache refs    
+     4.521938411          243649243      branches                                                    
+     4.521938411              47162      branch-misses             #    0.02% of all branches        
+     4.622430489             108536      cache-references                                            
+     4.622430489               7637      cache-misses              #    7.036 % of all cache refs    
+     4.622430489          245024017      branches                                                    
+     4.622430489              46378      branch-misses             #    0.02% of all branches        
+     4.722952747             121848      cache-references                                            
+     4.722952747              14192      cache-misses              #   11.647 % of all cache refs    
+     4.722952747          246411663      branches                                                    
+     4.722952747              49711      branch-misses             #    0.02% of all branches        
+     4.823450801             103977      cache-references                                            
+     4.823450801               9154      cache-misses              #    8.804 % of all cache refs    
+     4.823450801          246368066      branches                                                    
+     4.823450801              47830      branch-misses             #    0.02% of all branches        
+     4.923706501             131835      cache-references                                            
+     4.923706501              13304      cache-misses              #   10.091 % of all cache refs    
+     4.923706501          243477227      branches                                                    
+     4.923706501              47511      branch-misses             #    0.02% of all branches        
+     5.024217315              93448      cache-references                                            
+     5.024217315               6384      cache-misses              #    6.832 % of all cache refs    
+     5.024217315          246149981      branches                                                    
+     5.024217315              47753      branch-misses             #    0.02% of all branches        
+#           time             counts unit events
+     5.124741801              93227      cache-references                                            
+     5.124741801               9452      cache-misses              #   10.139 % of all cache refs    
+     5.124741801          247566175      branches                                                    
+     5.124741801              47048      branch-misses             #    0.02% of all branches        
+     5.225026770             134903      cache-references                                            
+     5.225026770              14578      cache-misses              #   10.806 % of all cache refs    
+     5.225026770          242159333      branches                                                    
+     5.225026770              47002      branch-misses             #    0.02% of all branches        
+     5.326119210             104466      cache-references                                            
+     5.326119210               8514      cache-misses              #    8.150 % of all cache refs    
+     5.326119210          248543174      branches                                                    
+     5.326119210              47378      branch-misses             #    0.02% of all branches        
+     5.426655343             101879      cache-references                                            
+     5.426655343               6822      cache-misses              #    6.696 % of all cache refs    
+     5.426655343          246591003      branches                                                    
+     5.426655343              48254      branch-misses             #    0.02% of all branches        
+     5.527211225             101817      cache-references                                            
+     5.527211225              10869      cache-misses              #   10.675 % of all cache refs    
+     5.527211225          246712087      branches                                                    
+     5.527211225              47387      branch-misses             #    0.02% of all branches        
+     5.627802857             124121      cache-references                                            
+     5.627802857              17412      cache-misses              #   14.028 % of all cache refs    
+     5.627802857          246789230      branches                                                    
+     5.627802857              48115      branch-misses             #    0.02% of all branches        
+     5.728371398             139495      cache-references                                            
+     5.728371398              23203      cache-misses              #   16.634 % of all cache refs    
+     5.728371398          243829875      branches                                                    
+     5.728371398              47665      branch-misses             #    0.02% of all branches        
+     5.828938420             104813      cache-references                                            
+     5.828938420               9779      cache-misses              #    9.330 % of all cache refs    
+     5.828938420          246801432      branches                                                    
+     5.828938420              46141      branch-misses             #    0.02% of all branches        
+     5.929513443             114412      cache-references                                            
+     5.929513443              12663      cache-misses              #   11.068 % of all cache refs    
+     5.929513443          245478862      branches                                                    
+     5.929513443              47252      branch-misses             #    0.02% of all branches        
+     6.030005116             100459      cache-references                                            
+     6.030005116               8564      cache-misses              #    8.525 % of all cache refs    
+     6.030005116          246662191      branches                                                    
+     6.030005116              47113      branch-misses             #    0.02% of all branches        
+     6.130354496             153053      cache-references                                            
+     6.130354496              19047      cache-misses              #   12.445 % of all cache refs    
+     6.130354496          241255963      branches                                                    
+     6.130354496              46883      branch-misses             #    0.02% of all branches        
+     6.230580624             125162      cache-references                                            
+     6.230580624              15939      cache-misses              #   12.735 % of all cache refs    
+     6.230580624          243079503      branches                                                    
+     6.230580624              48163      branch-misses             #    0.02% of all branches        
+     6.330907420             128467      cache-references                                            
+     6.330907420              14888      cache-misses              #   11.589 % of all cache refs    
+     6.330907420          244120480      branches                                                    
+     6.330907420              46341      branch-misses             #    0.02% of all branches        
+     6.431380863             129674      cache-references                                            
+     6.431380863               8386      cache-misses              #    6.467 % of all cache refs    
+     6.431380863          244975583      branches                                                    
+     6.431380863              47247      branch-misses             #    0.02% of all branches        
+     6.531655603              84686      cache-references                                            
+     6.531655603               9189      cache-misses              #   10.851 % of all cache refs    
+     6.531655603          247320343      branches                                                    
+     6.531655603              45244      branch-misses             #    0.02% of all branches        
+     6.631918798             105288      cache-references                                            
+     6.631918798               8237      cache-misses              #    7.823 % of all cache refs    
+     6.631918798          245899396      branches                                                    
+     6.631918798              47876      branch-misses             #    0.02% of all branches        
+     6.732215312              95508      cache-references                                            
+     6.732215312               7679      cache-misses              #    8.040 % of all cache refs    
+     6.732215312          246373219      branches                                                    
+     6.732215312              49259      branch-misses             #    0.02% of all branches        
+     6.832527524             124126      cache-references                                            
+     6.832527524              12120      cache-misses              #    9.764 % of all cache refs    
+     6.832527524          245659261      branches                                                    
+     6.832527524              47567      branch-misses             #    0.02% of all branches        
+     6.932752437             137426      cache-references                                            
+     6.932752437               7747      cache-misses              #    5.637 % of all cache refs    
+     6.932752437          243390379      branches                                                    
+     6.932752437              48159      branch-misses             #    0.02% of all branches        
+     7.033045001              96329      cache-references                                            
+     7.033045001               8053      cache-misses              #    8.360 % of all cache refs    
+     7.033045001          246886604      branches                                                    
+     7.033045001              47949      branch-misses             #    0.02% of all branches        
+     7.133320653              82369      cache-references                                            
+     7.133320653               7129      cache-misses              #    8.655 % of all cache refs    
+     7.133320653          247532929      branches                                                    
+     7.133320653              46118      branch-misses             #    0.02% of all branches        
+     7.233586987             106246      cache-references                                            
+     7.233586987              13639      cache-misses              #   12.837 % of all cache refs    
+     7.233586987          244738234      branches                                                    
+     7.233586987              46484      branch-misses             #    0.02% of all branches        
+     7.333819394             130032      cache-references                                            
+     7.333819394              12660      cache-misses              #    9.736 % of all cache refs    
+     7.333819394          244294965      branches                                                    
+     7.333819394              46512      branch-misses             #    0.02% of all branches        
+     7.434075095             107690      cache-references                                            
+     7.434075095               8419      cache-misses              #    7.818 % of all cache refs    
+     7.434075095          245479236      branches                                                    
+     7.434075095              47356      branch-misses             #    0.02% of all branches        
+     7.534318237             105941      cache-references                                            
+     7.534318237               8609      cache-misses              #    8.126 % of all cache refs    
+     7.534318237          244856346      branches                                                    
+     7.534318237              47036      branch-misses             #    0.02% of all branches        
+#           time             counts unit events
+     7.634660021             106608      cache-references                                            
+     7.634660021               8538      cache-misses              #    8.009 % of all cache refs    
+     7.634660021          245727418      branches                                                    
+     7.634660021              47606      branch-misses             #    0.02% of all branches        
+     7.734947826             121529      cache-references                                            
+     7.734947826              10693      cache-misses              #    8.799 % of all cache refs    
+     7.734947826          244079990      branches                                                    
+     7.734947826              47362      branch-misses             #    0.02% of all branches        
+     7.835257608              85585      cache-references                                            
+     7.835257608              10191      cache-misses              #   11.907 % of all cache refs    
+     7.835257608          247006577      branches                                                    
+     7.835257608              46986      branch-misses             #    0.02% of all branches        
+     7.935535791             130098      cache-references                                            
+     7.935535791              17331      cache-misses              #   13.321 % of all cache refs    
+     7.935535791          245798508      branches                                                    
+     7.935535791              51293      branch-misses             #    0.02% of all branches        
+     8.035781972             113727      cache-references                                            
+     8.035781972               8296      cache-misses              #    7.295 % of all cache refs    
+     8.035781972          245796943      branches                                                    
+     8.035781972              46692      branch-misses             #    0.02% of all branches        
+     8.136018429              85526      cache-references                                            
+     8.136018429              10117      cache-misses              #   11.829 % of all cache refs    
+     8.136018429          247361039      branches                                                    
+     8.136018429              46907      branch-misses             #    0.02% of all branches        
+     8.236228252              88495      cache-references                                            
+     8.236228252               8074      cache-misses              #    9.124 % of all cache refs    
+     8.236228252          246711495      branches                                                    
+     8.236228252              48670      branch-misses             #    0.02% of all branches        
+     8.336418427              98759      cache-references                                            
+     8.336418427              13550      cache-misses              #   13.720 % of all cache refs    
+     8.336418427          246553910      branches                                                    
+     8.336418427              48276      branch-misses             #    0.02% of all branches        
+     8.436729322             167619      cache-references                                            
+     8.436729322              16989      cache-misses              #   10.135 % of all cache refs    
+     8.436729322          239207331      branches                                                    
+     8.436729322              47897      branch-misses             #    0.02% of all branches        
+     8.537053789             111234      cache-references                                            
+     8.537053789               9401      cache-misses              #    8.452 % of all cache refs    
+     8.537053789          245589154      branches                                                    
+     8.537053789              52137      branch-misses             #    0.02% of all branches        
+     8.637322554              81763      cache-references                                            
+     8.637322554               7584      cache-misses              #    9.276 % of all cache refs    
+     8.637322554          247119028      branches                                                    
+     8.637322554              50440      branch-misses             #    0.02% of all branches        
+     8.737591217             104823      cache-references                                            
+     8.737591217               7713      cache-misses              #    7.358 % of all cache refs    
+     8.737591217          245137521      branches                                                    
+     8.737591217              46775      branch-misses             #    0.02% of all branches        
+     8.837835170             133981      cache-references                                            
+     8.837835170              28849      cache-misses              #   21.532 % of all cache refs    
+     8.837835170          241941671      branches                                                    
+     8.837835170              47450      branch-misses             #    0.02% of all branches        
+     8.938060892             202628      cache-references                                            
+     8.938060892              18234      cache-misses              #    8.999 % of all cache refs    
+     8.938060892          240929077      branches                                                    
+     8.938060892              50456      branch-misses             #    0.02% of all branches        
+     9.038297654              82611      cache-references                                            
+     9.038297654               8116      cache-misses              #    9.824 % of all cache refs    
+     9.038297654          246765849      branches                                                    
+     9.038297654              46158      branch-misses             #    0.02% of all branches        
+     9.138641059             125243      cache-references                                            
+     9.138641059               8475      cache-misses              #    6.767 % of all cache refs    
+     9.138641059          244264092      branches                                                    
+     9.138641059              48018      branch-misses             #    0.02% of all branches        
+     9.238932409             125207      cache-references                                            
+     9.238932409              13726      cache-misses              #   10.963 % of all cache refs    
+     9.238932409          245283768      branches                                                    
+     9.238932409              47259      branch-misses             #    0.02% of all branches        
+     9.339288431             123244      cache-references                                            
+     9.339288431              11564      cache-misses              #    9.383 % of all cache refs    
+     9.339288431          245159408      branches                                                    
+     9.339288431              48416      branch-misses             #    0.02% of all branches        
+     9.439654257              99476      cache-references                                            
+     9.439654257               7257      cache-misses              #    7.295 % of all cache refs    
+     9.439654257          243384601      branches                                                    
+     9.439654257              46296      branch-misses             #    0.02% of all branches        
+     9.539744285             108916      cache-references                                            
+     9.539744285               8500      cache-misses              #    7.804 % of all cache refs    
+     9.539744285          241929966      branches                                                    
+     9.539744285              47285      branch-misses             #    0.02% of all branches        
+     9.639981916             102521      cache-references                                            
+     9.639981916               7755      cache-misses              #    7.564 % of all cache refs    
+     9.639981916          243671761      branches                                                    
+     9.639981916              46583      branch-misses             #    0.02% of all branches        
+     9.740169044              88865      cache-references                                            
+     9.740169044               7567      cache-misses              #    8.515 % of all cache refs    
+     9.740169044          242965928      branches                                                    
+     9.740169044              47570      branch-misses             #    0.02% of all branches        
+     9.841170414             104961      cache-references                                            
+     9.841170414               9746      cache-misses              #    9.285 % of all cache refs    
+     9.841170414          238951612      branches                                                    
+     9.841170414              46101      branch-misses             #    0.02% of all branches        
+     9.941964013              97662      cache-references                                            
+     9.941964013               8604      cache-misses              #    8.810 % of all cache refs    
+     9.941964013          239061678      branches                                                    
+     9.941964013              45912      branch-misses             #    0.02% of all branches        
+    10.043238251              97902      cache-references                                            
+    10.043238251               8565      cache-misses              #    8.749 % of all cache refs    
+    10.043238251          240301946      branches                                                    
+    10.043238251              46343      branch-misses             #    0.02% of all branches        
+#           time             counts unit events
+    10.144105021              90211      cache-references                                            
+    10.144105021               9971      cache-misses              #   11.053 % of all cache refs    
+    10.144105021          239299996      branches                                                    
+    10.144105021              44987      branch-misses             #    0.02% of all branches        
+    10.245468887              88630      cache-references                                            
+    10.245468887               8408      cache-misses              #    9.487 % of all cache refs    
+    10.245468887          241208141      branches                                                    
+    10.245468887              45949      branch-misses             #    0.02% of all branches        
+    10.346445517             113661      cache-references                                            
+    10.346445517               8897      cache-misses              #    7.828 % of all cache refs    
+    10.346445517          237738892      branches                                                    
+    10.346445517              46833      branch-misses             #    0.02% of all branches        
+    10.447485673              83289      cache-references                                            
+    10.447485673               7264      cache-misses              #    8.721 % of all cache refs    
+    10.447485673          240226377      branches                                                    
+    10.447485673              44533      branch-misses             #    0.02% of all branches        
+    10.548557592              91068      cache-references                                            
+    10.548557592               7098      cache-misses              #    7.794 % of all cache refs    
+    10.548557592          240179602      branches                                                    
+    10.548557592              46305      branch-misses             #    0.02% of all branches        
+    10.649790003             243747      cache-references                                            
+    10.649790003              22459      cache-misses              #    9.214 % of all cache refs    
+    10.649790003          232462613      branches                                                    
+    10.649790003              47922      branch-misses             #    0.02% of all branches        
+    10.750003588             116493      cache-references                                            
+    10.750003588              12083      cache-misses              #   10.372 % of all cache refs    
+    10.750003588          236288703      branches                                                    
+    10.750003588              45966      branch-misses             #    0.02% of all branches        
+    10.851641475             110356      cache-references                                            
+    10.851641475              10469      cache-misses              #    9.487 % of all cache refs    
+    10.851641475          240288445      branches                                                    
+    10.851641475              45800      branch-misses             #    0.02% of all branches        
+    10.951939551             100799      cache-references                                            
+    10.951939551               7789      cache-misses              #    7.727 % of all cache refs    
+    10.951939551          237416808      branches                                                    
+    10.951939551              45268      branch-misses             #    0.02% of all branches        
+    11.053209177              87625      cache-references                                            
+    11.053209177              12338      cache-misses              #   14.080 % of all cache refs    
+    11.053209177          241347470      branches                                                    
+    11.053209177              46780      branch-misses             #    0.02% of all branches        
+    11.153582310              97474      cache-references                                            
+    11.153582310               7482      cache-misses              #    7.676 % of all cache refs    
+    11.153582310          237392873      branches                                                    
+    11.153582310              45434      branch-misses             #    0.02% of all branches        
+    11.254008067             118420      cache-references                                            
+    11.254008067              12163      cache-misses              #   10.271 % of all cache refs    
+    11.254008067          236248307      branches                                                    
+    11.254008067              45267      branch-misses             #    0.02% of all branches        
+    11.354453951             104076      cache-references                                            
+    11.354453951               8084      cache-misses              #    7.767 % of all cache refs    
+    11.354453951          237320501      branches                                                    
+    11.354453951              45056      branch-misses             #    0.02% of all branches        
+    11.455794755             100737      cache-references                                            
+    11.455794755              10353      cache-misses              #   10.277 % of all cache refs    
+    11.455794755          240243264      branches                                                    
+    11.455794755              46422      branch-misses             #    0.02% of all branches        
+    11.556325026              77077      cache-references                                            
+    11.556325026               6258      cache-misses              #    8.119 % of all cache refs    
+    11.556325026          239555205      branches                                                    
+    11.556325026              44846      branch-misses             #    0.02% of all branches        
+    11.657771916              97311      cache-references                                            
+    11.657771916               8450      cache-misses              #    8.683 % of all cache refs    
+    11.657771916          239992187      branches                                                    
+    11.657771916              45663      branch-misses             #    0.02% of all branches        
+    11.758414249              89662      cache-references                                            
+    11.758414249               8849      cache-misses              #    9.869 % of all cache refs    
+    11.758414249          239433968      branches                                                    
+    11.758414249              46211      branch-misses             #    0.02% of all branches        
+    11.858660330              95664      cache-references                                            
+    11.858660330               7972      cache-misses              #    8.333 % of all cache refs    
+    11.858660330          237595890      branches                                                    
+    11.858660330              45784      branch-misses             #    0.02% of all branches        
+    11.959372268              89223      cache-references                                            
+    11.959372268               9816      cache-misses              #   11.002 % of all cache refs    
+    11.959372268          239133719      branches                                                    
+    11.959372268              45205      branch-misses             #    0.02% of all branches        
+    12.060518511             101018      cache-references                                            
+    12.060518511              14983      cache-misses              #   14.832 % of all cache refs    
+    12.060518511          239726436      branches                                                    
+    12.060518511              46202      branch-misses             #    0.02% of all branches        
+    12.077708786             934072      cache-references                                            
+    12.077708786             136239      cache-misses              #   14.585 % of all cache refs    
+    12.077708786           36400254      branches                                                    
+    12.077708786              77290      branch-misses             #    0.21% of all branches        
